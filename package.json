@@ -1,0 +1,22 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "List to do",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Todo",
+    "Console",
+    "List",
+    "Json"
+  ],
+  "author": "JonatanRJ",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.1",
+    "uuid": "^8.3.2"
+  }
+}
